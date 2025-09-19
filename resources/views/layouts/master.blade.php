@@ -71,7 +71,7 @@
 
             <!-- Social -->
             <div>
-                <h2 class="text-xl font-bold text-white mb-4">Connect With Us</h2>
+                <h2 class="text-xl font-bold text-white mb-4">Connect With Us </h2>
                 <div class="flex space-x-4 text-2xl">
                     <a href="https://facebook.com/prabesh.ach" class="text-blue-500 hover:text-blue-400"><i class="ri-facebook-circle-fill"></i></a>
                     <a href="https://twitter.com/PrabeshAch33319" class="text-sky-400 hover:text-sky-300"><i class="ri-twitter-fill"></i></a>
